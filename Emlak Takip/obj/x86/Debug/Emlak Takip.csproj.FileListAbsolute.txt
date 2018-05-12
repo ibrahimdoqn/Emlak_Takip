@@ -1,0 +1,21 @@
+\\mac\home\documents\visual studio 2010\Projects\Emlak Takip\Emlak Takip\bin\Debug\Emlak Takip.exe
+\\mac\home\documents\visual studio 2010\Projects\Emlak Takip\Emlak Takip\bin\Debug\Emlak Takip.pdb
+\\mac\home\documents\visual studio 2010\Projects\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak_Takip.Form1.resources
+\\mac\home\documents\visual studio 2010\Projects\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak_Takip.Properties.Resources.resources
+\\mac\home\documents\visual studio 2010\Projects\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak Takip.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2010\Projects\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak Takip.exe
+\\mac\home\documents\visual studio 2010\Projects\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak Takip.pdb
+\\mac\home\documents\visual studio 2010\Projects\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak Takip.csprojResolveAssemblyReference.cache
+F:\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak Takip.exe
+F:\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak Takip.pdb
+C:\Users\DOGAN\Desktop\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak Takip.exe
+C:\Users\DOGAN\Desktop\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak Takip.pdb
+C:\Users\DOGAN\Desktop\Emlak Takip\Emlak Takip\bin\Debug\Emlak Takip.exe
+C:\Users\DOGAN\Desktop\Emlak Takip\Emlak Takip\bin\Debug\Emlak Takip.pdb
+C:\Users\DOGAN\Desktop\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak Takip.csprojResolveAssemblyReference.cache
+C:\Users\DOGAN\Desktop\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak_Takip.Form1.resources
+C:\Users\DOGAN\Desktop\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak_Takip.Properties.Resources.resources
+C:\Users\DOGAN\Desktop\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak Takip.csproj.GenerateResource.Cache
+C:\Users\DOGAN\Desktop\Emlak Takip\Emlak Takip\bin\Debug\Emlak Takip.exe.config
+C:\Users\DOGAN\Desktop\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak_Takip.Form2.resources
+C:\Users\DOGAN\Desktop\Emlak Takip\Emlak Takip\obj\x86\Debug\Emlak_Takip.Form3.resources
